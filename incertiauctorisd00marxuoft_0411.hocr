@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./incertiauctorisd00marxuoft_0411.png"; bbox 0 0 2003 3116; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 180 2967 323 2994">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 180 2967 323 2994">
+     <span class='ocr_line' id='line_1_1' title="bbox 180 2967 323 2994; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 180 2967 203 2994; x_wconf 86' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_2' title='bbox 210 2968 228 2994; x_wconf 83' lang='lat' dir='ltr'><strong>d</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 241 2967 323 2994; x_wconf 82' lang='lat' dir='ltr'>Here</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 417 1318 1307 1392">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 417 1318 1307 1392">
+     <span class='ocr_line' id='line_1_2' title="bbox 417 1318 1307 1392; baseline -0.012 0"><span class='ocrx_word' id='word_1_4' title='bbox 417 1325 726 1392; x_wconf 88' lang='lat' dir='ltr'>INDEX</span> <span class='ocrx_word' id='word_1_5' title='bbox 781 1318 1307 1386; x_wconf 80' lang='lat' dir='ltr'>VERBORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 578 1481 1140 1523">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 578 1481 1140 1523">
+     <span class='ocr_line' id='line_1_3' title="bbox 578 1481 1140 1523; baseline -0.012 0"><span class='ocrx_word' id='word_1_6' title='bbox 578 1488 674 1523; x_wconf 89' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 680 1485 832 1522; x_wconf 80' lang='lat' dir='ltr'><strong>SAURO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 858 1481 1140 1519; x_wconf 83' lang='lat' dir='ltr'><strong>HERTZIANO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 765 1616 955 1644">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 765 1616 955 1644">
+     <span class='ocr_line' id='line_1_4' title="bbox 765 1616 955 1644; baseline -0.021 0"><span class='ocrx_word' id='word_1_9' title='bbox 765 1616 955 1644; x_wconf 76' lang='lat' dir='ltr'><strong>SYMBOLA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 325 2949 1344 3001">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 325 2949 1344 3001">
+     <span class='ocr_line' id='line_1_5' title="bbox 325 2949 1344 3001; baseline -0.011 -9"><span class='ocrx_word' id='word_1_10' title='bbox 325 2965 521 3001; x_wconf 25' lang='lat' dir='ltr'>unium-libri</span> <span class='ocrx_word' id='word_1_11' title='bbox 539 2963 592 2996; x_wconf 89' lang='lat' dir='ltr'>IV,</span> <span class='ocrx_word' id='word_1_12' title='bbox 611 2963 656 2988; x_wconf 82' lang='lat' dir='ltr'>ed.</span> <span class='ocrx_word' id='word_1_13' title='bbox 670 2962 779 2987; x_wconf 74' lang='lat' dir='ltr'><strong>MAnx.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1300 2949 1344 2981; x_wconf 78' lang='lat'>25</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
